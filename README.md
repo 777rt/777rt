@@ -31,13 +31,6 @@ Aquí están las herramientas con las que trabajo, en una estética minimalista:
 
 ---
 
-### 📊 Mis Estadísticas
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=777rt&theme=dark&hide_border=false&locale=es&short_numbers=true&background=000000" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ### 📫 Contacto
