@@ -33,11 +33,9 @@ Aquí están las herramientas con las que trabajo, en una estética minimalista:
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=777rt&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="480" alt="Estadísticas de 777rt" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=777rt&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" width="380" alt="Lenguajes de 777rt" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=777rt&theme=dark&hide_border=false&locale=es&short_numbers=true&background=000000" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
