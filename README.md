@@ -1,12 +1,12 @@
 # ¡Hola! Soy Renato 👋
 
 <div align="center">
-  <img src="[https://mx.pinterest.com/pin/919930661360675452/](https://i.pinimg.com/736x/f7/df/96/f7df968abef5a469712cbba6cfcbbefd.jpg)" alt="Anime Banner" width="100%">
-</div>
+  <img src="https://i.pinimg.com/originals/84/c2/f7/84c2f741548b613945417435f73d8b36.jpg" alt="Anime Banner" width="100%">
 
-<align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=%E3%81%BE%E3%81%A0%E3%81%A0" alt="Typing SVG" />
-</p>
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=435&lines=%E3%81%BE%E3%81%A0%E3%81%A0" alt="まだだ" />
+</div>
 
 ---
 
