@@ -31,7 +31,6 @@ Aquí están las herramientas con las que trabajo, en una estética minimalista:
 
 ---
 
----
 
 ### 📫 Contacto
 ¡Hablemos! Puedes encontrarme en:
