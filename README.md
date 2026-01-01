@@ -32,10 +32,11 @@ Aquí están las herramientas con las que trabajo, en una estética minimalista:
 ---
 
 ### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=777rt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777rt&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" width="45%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=777rt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="480" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777rt&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" width="380" />
+</div>
 
 ---
 
