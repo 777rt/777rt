@@ -1,7 +1,7 @@
 # ¡Hola! Soy Renato 👋
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/84/c2/f7/84c2f741548b613945417435f73d8b36.jpg" alt="Anime Banner" width="100%">
+  <img src="https://github.com/777rt/777rt/blob/main/%F0%9F%8D%99%EF%BF%A4MANGA%20HEADERS.jpg?raw=true" alt="Anime Banner" width="100%">
 
   <br/>
 
