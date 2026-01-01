@@ -1,7 +1,7 @@
 # ¡Hola! Soy Renato 👋
 
 <div align="center">
-  <img src="https://mx.pinterest.com/pin/919930661360675452/" alt="Anime Banner" width="100%">
+  <img src="[https://mx.pinterest.com/pin/919930661360675452/](https://i.pinimg.com/736x/f7/df/96/f7df968abef5a469712cbba6cfcbbefd.jpg)" alt="Anime Banner" width="100%">
 </div>
 
 <align="center">
@@ -33,8 +33,8 @@ Aquí están las herramientas con las que trabajo, en una estética minimalista:
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=777rt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=777rt&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Langs" width="45%" />
 </p>
 
 ---
